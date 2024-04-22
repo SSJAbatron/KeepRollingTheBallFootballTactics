@@ -1,6 +1,6 @@
 # KeepRollingTheBallFootballTactics
-![GamePlay](https://raw.github.com/SSJAbatron/DontWakeMeUpFromThisDream/main/gameplay1.png)
-![GamePlay](https://raw.github.com/SSJAbatron/DontWakeMeUpFromThisDream/main/gameplay2.png)
+![GamePlay](https://raw.github.com/SSJAbatron/KeepRollingTheBallFootballTactics/main/gameplay1.png)
+![GamePlay](https://raw.github.com/SSJAbatron/KeepRollingTheBallFootballTactics/main/gameplay2.png)
 Trijam-244 Game
 > This is my first game jam and the theme of the trijam was __Keep Rolling__.
 
